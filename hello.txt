@@ -1,4 +1,8 @@
 helloo...!
 iam mishab, iam a software developer
 i have so many friends
+<<<<<<< HEAD
 we never meet 
+=======
+we can meet tomorrow
+>>>>>>> feature
